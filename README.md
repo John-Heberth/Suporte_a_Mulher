@@ -7,5 +7,6 @@ Objetivo: Criar um aplicativo que seja de ajuda a mulher em casos de  vulnerabil
 fazendo com que a mulher possa enviar sua localização atual junto com uma mensagem de socorro para familiares ou conhecidos, 
 a mensagem poderá ser enviada via Whatsapp, MSM Celular ou Email, caso a vítima prefira contactar o 190 também será disponibilizado um botão no app onde vítima estará entrando em contato com 190 
 
-Projeto iniciado em 27 de Agosto de 2020
+Projeto iniciado em 27 de Agosto de 2020.
+
 Projeto em andamento...
